@@ -5,6 +5,9 @@
 /postgress
 
 .env
+.env.template
+text
+
 text
 # Logs
 logs
